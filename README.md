@@ -28,13 +28,14 @@ This shows the seats available for a certain movie. Once the seat is already res
 - Easier reservation of tickets
 
 #### Interest 
-- Any two from the data structures discussed + opencv
-	- Queue – Recent  Searches
-		- Movies are added and deleted based on which came first.
-	- List of lists – Reservation
-		- First come first serve basis on reserving tickets.
-	- Stack – Rating
-		- Reviews are averaged based on the number of reviews given.
-	-Tree – Movies
-		- Movies are going to be divided into categories which will be in a tree
+- OpenCV
+	- Opencv will be used for the main GUI of the app 
+- Queue – Recent  Searches
+	- Movies are added and deleted based on which came first.
+- List of lists – Reservation
+	- First come first serve basis on reserving tickets.
+- Stack – Rating
+	- Reviews are averaged based on the number of reviews given.	
+- Tree – Movies
+	- Movies are going to be divided into categories which will be in a tree
 
