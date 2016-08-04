@@ -1,6 +1,6 @@
 # Project Proposal
 
-## MovéDex
+## MoviéDex
 – In this project, we will be designing a movie ticketing system where users can view movies that are showing and movies that are coming soon. Users will also be able to reserve tickets through the app and it will compute for the total price of the purchase. Users can also comment on the movies and give their reviews and ratings of the movie. 
 
 
