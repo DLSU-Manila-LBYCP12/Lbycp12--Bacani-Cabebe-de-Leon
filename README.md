@@ -38,4 +38,5 @@ This shows the seats available for a certain movie. Once the seat is already res
 	- Reviews are averaged based on the number of reviews given.	
 - Tree – Movies
 	- Movies are going to be divided into categories which will be in a tree
+	![untitled diagram](https://cloud.githubusercontent.com/assets/16644615/17397394/777ad324-5a6a-11e6-9045-6043d5d9028c.png)
 
