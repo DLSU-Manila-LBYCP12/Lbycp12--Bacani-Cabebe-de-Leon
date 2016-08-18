@@ -45,6 +45,7 @@ This shows the seats available for a certain movie. Once the seat is already res
 ##CHECKLIST:
 ###GUI: 	
 ####HOME 
+![14081439_10206627293313205_2084078476_n](https://cloud.githubusercontent.com/assets/16644615/17769803/0cf79182-656d-11e6-91a1-d21c276ff668.png)
 #####DONE
 	- TITLE 
 	- MOVIE POSTERS AND TITLES
@@ -53,6 +54,7 @@ This shows the seats available for a certain movie. Once the seat is already res
 	- SEARCH (QUEUE FOR RECENT SEARCHES)
 
 ####TICKET RESERVATION
+![14017953_10205565602499812_1800503450_n](https://cloud.githubusercontent.com/assets/16644615/17769808/116c9cee-656d-11e6-848a-bf0ee6d03a02.png)
 #####DONE 
 	- RESERVATION SCREEN WITH 24 SEATS
 #####IN PROGRESS
