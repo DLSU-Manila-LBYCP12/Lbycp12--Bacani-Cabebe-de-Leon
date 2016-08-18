@@ -40,3 +40,31 @@ This shows the seats available for a certain movie. Once the seat is already res
 	- Movies are going to be divided into categories which will be in a tree
 	![untitled diagram](https://cloud.githubusercontent.com/assets/16644615/17397394/777ad324-5a6a-11e6-9045-6043d5d9028c.png)
 
+#Progress Report
+
+##CHECKLIST:
+###GUI: 	
+####HOME 
+#####DONE
+	- TITLE 
+	- MOVIE POSTERS AND TITLES
+#####IN PROGRESS
+	- GENRE FILTER (IN TREE)
+	- SEARCH (QUEUE FOR RECENT SEARCHES)
+
+####TICKET RESERVATION
+#####DONE 
+	- RESERVATION SCREEN WITH 24 SEATS
+#####IN PROGRESS
+- CONVERT TO GRAYSCALE WHEN CLICKED, USING OPENCV
+- DISPLAYS SEATS IN SHOPPING CART
+- PROCEED BUTTON TO DISPLAY RECEIPT AND FINISH RESERVATION
+
+####MOVIE DESCRIPTIONS
+#####IN PROGRESS
+- SHOWS BIGGER POSTER WITH MORE DETAILS FOR THE MOVIES
+- RATINGS AND COMMENTS FOR THE MOVIES
+			
+DATA STRUCTURE
+
+
