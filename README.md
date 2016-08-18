@@ -49,6 +49,7 @@ This shows the seats available for a certain movie. Once the seat is already res
 #####DONE
 - TITLE 
 - MOVIE POSTERS AND TITLES
+
 #####IN PROGRESS
 - GENRE FILTER (IN TREE)
 - SEARCH (QUEUE FOR RECENT SEARCHES)
@@ -57,6 +58,7 @@ This shows the seats available for a certain movie. Once the seat is already res
 ![14017953_10205565602499812_1800503450_n](https://cloud.githubusercontent.com/assets/16644615/17769808/116c9cee-656d-11e6-848a-bf0ee6d03a02.png)
 #####DONE 
 - RESERVATION SCREEN WITH 24 SEATS
+
 #####IN PROGRESS
 - CONVERT TO GRAYSCALE WHEN CLICKED, USING OPENCV
 - DISPLAYS SEATS IN SHOPPING CART
@@ -66,7 +68,4 @@ This shows the seats available for a certain movie. Once the seat is already res
 #####IN PROGRESS
 - SHOWS BIGGER POSTER WITH MORE DETAILS FOR THE MOVIES
 - RATINGS AND COMMENTS FOR THE MOVIES
-			
-DATA STRUCTURE
-
 
