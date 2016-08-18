@@ -69,3 +69,7 @@ This shows the seats available for a certain movie. Once the seat is already res
 - SHOWS BIGGER POSTER WITH MORE DETAILS FOR THE MOVIES
 - RATINGS AND COMMENTS FOR THE MOVIES
 
+###DATA STRUCTURE
+![image](https://cloud.githubusercontent.com/assets/16644615/17770760/0c22579c-6572-11e6-9290-82698e27627f.png)
+![image](https://cloud.githubusercontent.com/assets/16644615/17770775/1949b7d0-6572-11e6-862f-61bb319bb221.png)
+
